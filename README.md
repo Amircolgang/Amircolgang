@@ -1,8 +1,12 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/amircolgang/count.svg?"  />
 </div>
+---
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&letterSpacing=&pause=1000&color=640000&background=100000&center=true&multiline=true&width=439&height=201&lines=Hi+i+Am++Amir+Hossin+Shirazi++%F0%9F%90%B1%E2%80%8D%F0%9F%91%A4;Full+Stack+Developer+%F0%9F%90%B1%E2%80%8D%F0%9F%92%BB;Founder+Of+Shirazi+Co.+;isfahan+%F0%9F%8C%B3;iran+%F0%9F%87%AE%F0%9F%87%B7;%D9%85%D9%88%D9%81%D9%82+%D8%A8%D8%A7%D8%B4%DB%8C%D8%AF+%E2%9C%8C)](https://git.io/typing-svg)
 
 ---
+
 
 Amir Hossin Shirazi
 
