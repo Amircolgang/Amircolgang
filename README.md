@@ -71,3 +71,9 @@ Amir Hossin Shirazi
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=amircolgang)](https://github.com/anuraghazra/github-readme-stats)
 
 ###
+
+<p align="center">
+  <a href="https://github.com/amircolgang">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=amircolgang&theme=tokyo-night&area=true&hide_border=true" alt="Imran's GitHub activity graph" />
+  </a>
+</p>
