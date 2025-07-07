@@ -34,7 +34,9 @@ Amir Hossin Shirazi
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amircolgang/amircolgang/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/amircolgang/amircolgang/output/pacman-contribution-graph.svg">
 </picture>
-
+<a href="https://github.com/amirroox">
+  <img width="49%" height="180px" src="https://github-readme-stats-me-amircolgang.vercel.app/api?username=amircolgang&number_format=long&show=prs_merged_percentage&show_icons=true&line_height=30&rank_icon=github&title_color=de2121&text_color=e0cece&icon_color=c70808&bg_color=22272e" alt="amir roox GitHub Stats" />
+</a>
 ###
 
 # 💻 Tech Stack:
