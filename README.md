@@ -63,3 +63,6 @@ Amir Hossin Shirazi
 </div>
 
 ###
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=amircolgang)](https://github.com/anuraghazra/github-readme-stats)
+
+###
